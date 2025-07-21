@@ -825,10 +825,11 @@ seedItems := ["Carrot Seed", "Strawberry Seed", "Blueberry Seed", "Tomato Seed"
              , "Cauliflower Seed", "Watermelon Seed", "Rafflesia Seed"
              , "Green Apple Seed", "Avocado Seed", "Banana Seed", "Pineapple Seed"
              , "Kiwi Seed", "Bell Pepper Seed", "Prickly Pear Seed", "Loquat Seed"
-             , "Feijoa Seed", "Pitcher Plant", "Sugar Apple"]
+             , "Feijoa Seed", "Pitcher Plant", "Sugar Apple", "Pitcher Plant", "Pitcher Plant", "Pitcher Plant", "Pitcher Plant", "Pitcher Plant", "Pitcher Plant"]
 
 gearItems := ["Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler"
-             , "Godly Sprinkler", "Magnifying Glass", "Tanning Mirror", "Master Sprinkler", "Cleaning Spray", "Favorite Tool", "Harvest Tool", "Friendship Pot"]
+             , "Godly Sprinkler", "Magnifying Glass", "Tanning Mirror", "Master Sprinkler", "Cleaning Spray", "Favorite Tool", "Harvest Tool", "Friendship Pot", "Pitcher Plant"
+             , "Pitcher Plant", "Pitcher Plant"]
 
 eggItems := ["Common Egg", "Common Summer Egg", "Rare Summer Egg", "Mythical Egg", "Paradise Egg"
              , "Bee Egg", "Bug Egg"]
