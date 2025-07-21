@@ -821,14 +821,14 @@ quickDetect(color1, color2, variation := 10, x1Ratio := 0.0, y1Ratio := 0.0, x2R
 
 ; item arrays
 
-seedItems := ["Carrot Seed", "Strawberry Seed", "Blueberry Seed", "Tomato Seed"
-             , "Cauliflower Seed", "Watermelon Seed", "Rafflesia Seed"
-             , "Green Apple Seed", "Avocado Seed", "Banana Seed", "Pineapple Seed"
-             , "Kiwi Seed", "Bell Pepper Seed", "Prickly Pear Seed", "Loquat Seed"
-             , "Feijoa Seed", "Pitcher Plant", "Sugar Apple"]
+seedItems := ["Carrot Seed", "Strawberry Seed", "Blueberry Seed", "Orange Tulip", "Tomato Seed"
+             , "Corn Seed", "Daffodil Seed", "Watermelon Seed", "Pumpkin Seed"
+             , "Apple Seed", "Bamboo Seed", "Coconut Seed", "Cactus Seed"
+             , "Dragon Fruit Seed", "Mango Seed", "Grape Seed", "Mushroom Seed"
+             , "Pepper Seed", "Cacao Seed", "Beanstalk Seed", "Ember Lily", "Sugar Apple", "Burning Bud", "Giant Pinecone Seed"]
 
-gearItems := ["Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler"
-             , "Godly Sprinkler", "Magnifying Glass", "Tanning Mirror", "Master Sprinkler", "Cleaning Spray", "Favorite Tool", "Harvest Tool", "Friendship Pot"]
+gearItems := ["Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Advanced Sprinkler", "Medium Toy", "Medium Treat"
+             , "Godly Sprinkler", "Magnifying Glass", "Tanning Mirror", "Master Sprinkler", "Cleaning Spray", "Favorite Tool", "Harvest Tool", "Friendship Pot", "Levelup Lollipop"]
 
 eggItems := ["Common Egg", "Common Summer Egg", "Rare Summer Egg", "Mythical Egg", "Paradise Egg"
              , "Bee Egg", "Bug Egg"]
